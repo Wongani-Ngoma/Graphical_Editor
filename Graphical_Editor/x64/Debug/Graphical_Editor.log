@@ -1,0 +1,4 @@
+﻿  Editor.cpp
+C:\Users\Ngoma\source\repos\Graphical_Editor\Editor.cpp(57,31): warning C4101: 'rows': unreferenced local variable
+C:\Users\Ngoma\source\repos\Graphical_Editor\Editor.cpp(57,37): warning C4101: 'columns': unreferenced local variable
+  Graphical_Editor.vcxproj -> C:\Users\Ngoma\source\repos\Graphical_Editor\x64\Debug\Graphical_Editor.exe
