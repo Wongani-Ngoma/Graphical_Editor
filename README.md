@@ -31,3 +31,9 @@ A program that simulates a simple interactive graphical editor, I made based on 
 |--------------------------------------------------------------------------------|                  
 | X               | Terminate the session.                                       |
 |--------------------------------------------------------------------------------|
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
