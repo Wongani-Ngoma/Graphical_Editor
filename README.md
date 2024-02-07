@@ -4,10 +4,8 @@ A program that simulates a simple interactive graphical editor, I made based on 
 
 | Command         | What it does                                                 |
 |-----------------|--------------------------------------------------------------|
-| I M N           | Create a new M × N image with all pixels initially colored   |
-|                 | white (O).                                                   |
-| C               | Clear the table by setting all pixels white (O). The size    |
-|                 | remains unchanged.                                           |
+| I M N           | Create a new M × N image with all pixels initially colored white (O).|
+| C               | Clear the table by setting all pixels white (O). The size remains unchanged.|
 |-----------------|--------------------------------------------------------------|                  
 | L X Y C         | Colors the pixel (X, Y ) in color (C).                       |
 |-----------------|--------------------------------------------------------------|
