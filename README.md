@@ -6,7 +6,6 @@ A program that simulates a simple interactive graphical editor, I made based on 
 |-----------------|--------------------------------------------------------------|
 | I M N           | Create a new M × N image with all pixels initially colored   |
 |                 | white (O).                                                   |
-|-----------------|--------------------------------------------------------------|
 | C               | Clear the table by setting all pixels white (O). The size    |
 |                 | remains unchanged.                                           |
 |-----------------|--------------------------------------------------------------|                  
